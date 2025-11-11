@@ -4,7 +4,7 @@
 
 ### Main
 
-- [Messager.NET)(https://github.com/NovoDwarf/InterestingAlgorithms/tree/master/Apps/Messager) - A lightweight and fast messaging system (pub/sub) for .NET 10 (C#, Autofac) (Inspired by [MessagePipe](https://github.com/Cysharp/MessagePipe)
+- [Messager.NET](https://github.com/NovoDwarf/InterestingAlgorithms/tree/master/Apps/Messager) - A lightweight and fast messaging system (pub/sub) for .NET 10 (C#, Autofac) (Inspired by [MessagePipe](https://github.com/Cysharp/MessagePipe)
 
 ### Gamedev
 
