@@ -18,7 +18,7 @@
 ### Desktop
 
 - [ShaderEditor](...) - A simple editor for GLSL shaders (C#, Silk.NET, ImGUI.NET, Messager.NET)
-- [FractalVisualizer)(...) - A simple fractal visualizer (C#, Silk.NET, ImGUI.NET, Messager.NET)
+- [FractalVisualizer](...) - A simple fractal visualizer (C#, Silk.NET, ImGUI.NET, Messager.NET)
 
 ### API
 
