@@ -8,17 +8,12 @@
 
 ### Gamedev
 
-- [Novo](...) - W.I.P (C#, Godot, Friflo.ECS, EF, SQLite, ...)
+- [Aegis](...) - W.I.P (C#, Godot, Friflo.ECS, ...)
 - [RimSharp](...) - RimSort rewritten in C# (C#, MAUI, EF)
 
 ### Server
 
 - [BF](...) - Discord server infrastructure: Backend, Bots (Discord, Telegram), Site (Dashboard, Information, ...) (.NET Aspire, C#, Blazor, Discord.Net, Lavalink4NET, OpenDota.NET, RavenDB)
-
-### Desktop
-
-- [ShaderEditor](...) - A simple editor for GLSL shaders (C#, Silk.NET, ImGUI.NET, Messager.NET)
-- [FractalVisualizer](...) - A simple fractal visualizer (C#, Silk.NET, ImGUI.NET, Messager.NET)
 
 ### API
 
