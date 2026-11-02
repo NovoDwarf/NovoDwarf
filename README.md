@@ -12,7 +12,8 @@ My name is Kirill, and I am a student at [SRSPU (NPI)](https://npi-tu.ru), major
 - [ImiModel.NET](https://github.com/NovoDwarf/ImiModel.NET) - A modular .NET simulation modeling framework supporting time-stepped (Δt) and event-driven simulation methods. Allows building models from interconnected sources, queues, services, and sinks. (C#, .NET, MathForge)
 - [Procedural.NET](https://github.com/NovoDwarf/Procedural.NET) - A modular .NET framework for procedural generation and node-based computational workflows. Currently focused on procedural terrain generation, with plans to evolve into a general-purpose procedural toolkit. Includes an Avalonia-based graph editor. (C#, .NET, Avalonia, MathForge, Grekov)
 - [Messager.NET](https://github.com/NovoDwarf/Messager.NET) - A lightweight and fast messaging system (pub/sub) for .NET (C#, Autofac) (Inspired by [MessagePipe](https://github.com/Cysharp/MessagePipe))
-- [BF](https://github.com/NovoDwarf/BF) - Discord server infrastructure: Backend, Bots (Discord, Telegram), Site (Dashboard, Information, ...) (.NET Aspire, C#, Blazor, Discord.Net, Lavalink4NET, OpenDota.NET, RavenDB)
+- [BF](https://github.com/NovoDwarf/BF) - A Discord server infrastructure: Backend, Bots (Discord, Telegram), Site (Dashboard, Information, ...) (.NET Aspire, C#, Blazor, Discord.Net, Lavalink4NET, OpenDota.NET, RavenDB)
+- [RimSharp](https://github.com/NovoDwarf/RimSharp) - Alternative (RimPy, RimSort) mod manager for RimWorld. Currently, W.I.P. (C#, MAUI)
 
 ### Projects
 
