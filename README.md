@@ -4,23 +4,24 @@ My name is Kirill, and I am a student at [SRSPU (NPI)](https://npi-tu.ru), major
 
 ## Projects
 
-### Big projects
+### Magnum Opus
 
 - [MathForge](https://github.com/NovoDwarf/MathForge) - A modular .NET mathematical library providing tools for numerical computing, probability, cryptography, graphics, optimization, machine learning, and other computational domains. Includes MathForge.Maui, a showcase application for exploring the library's modules. (C#, .NET, MAUI)
 - [Grekov](https://github.com/NovoDwarf/Grekov) - A centralized package, content, localization, and definition management framework for .NET applications. Handles package discovery, manifest processing, dependency resolution, assembly loading, definition parsing, and localization. (C#, .NET)
-- [Komissar](https://github.com/NovoDwarf/Komissar) - A lightweight .NET simulation engine designed for integrating and executing independent systems, tasks, and simulation logic. Provides a modular, dependency-aware execution pipeline for simulations and complex applications. (C#, .NET)
-- [ImiModel.NET](https://github.com/NovoDwarf/ImiModel.NET) - A modular .NET simulation modeling framework supporting time-stepped (Δt) and event-driven simulation methods. Allows building models from interconnected sources, queues, services, and sinks. (C#, .NET, MathForge)
-- ~~[Procedural.NET](https://github.com/NovoDwarf/Procedural.NET) - A modular .NET framework for procedural generation and node-based computational workflows. Currently focused on procedural terrain generation, with plans to evolve into a general-purpose procedural toolkit. Includes an Avalonia-based graph editor. (C#, .NET, Avalonia, MathForge, Grekov)~~
 - [Messager.NET](https://github.com/NovoDwarf/Messager.NET) - A lightweight and fast messaging system (pub/sub) for .NET (C#, Autofac) (Inspired by [MessagePipe](https://github.com/Cysharp/MessagePipe))
-- ~~[BF](https://github.com/NovoDwarf/BF) - A Discord server infrastructure: Backend, Bots (Discord, Telegram), Site (Dashboard, Information, ...) (.NET Aspire, C#, Blazor, Discord.Net, Lavalink4NET, OpenDota.NET, RavenDB)~~
-- ~~[RimSharp](https://github.com/NovoDwarf/RimSharp) - Alternative (RimPy, RimSort) mod manager for RimWorld. Currently, W.I.P. (C#, MAUI)~~
+- [LoliVM](https://github.com/NovoDwarf/LoliVM) - A 8-bit machine project. The project is an opportunity to try different programming languages, including Rust, Go, and Zig. The .NET implementation serves as the reference because it is the language platform I know best.
 
 ### Projects
 
 - [NovoDwarf.Projects](https://github.com/NovoDwarf/NovoDwarf.Projects) - Compilation of various algorithms that I was interested in implementing or had implemented as laboratory work (C#, ...)
+- [Komissar](https://github.com/NovoDwarf/Komissar) - A lightweight .NET simulation engine designed for integrating and executing independent systems, tasks, and simulation logic. Provides a modular, dependency-aware execution pipeline for simulations and complex applications. (C#, .NET)
+- [ImiModel.NET](https://github.com/NovoDwarf/ImiModel.NET) - A modular .NET simulation modeling framework supporting time-stepped (Δt) and event-driven simulation methods. Allows building models from interconnected sources, queues, services, and sinks. (C#, .NET, MathForge)
+- ~~[BF](https://github.com/NovoDwarf/BF) - A Discord server infrastructure: Backend, Bots (Discord, Telegram), Site (Dashboard, Information, ...) (.NET Aspire, C#, Blazor, Discord.Net, Lavalink4NET, OpenDota.NET, RavenDB)~~
+- ~~[RimSharp](https://github.com/NovoDwarf/RimSharp) - Alternative (RimPy, RimSort) mod manager for RimWorld. Currently, W.I.P. (C#, MAUI)~~
+- ~~[Procedural.NET](https://github.com/NovoDwarf/Procedural.NET) - A modular .NET framework for procedural generation and node-based computational workflows. Currently focused on procedural terrain generation, with plans to evolve into a general-purpose procedural toolkit. Includes an Avalonia-based graph editor. (C#, .NET, Avalonia, MathForge, Grekov)~~
 
 ### Discord Rich Presence
-- [RimWorld RPC](https://github.com/NovoDwarf/RimWorldRPC) - (Fork) RPC for RimWorld (С#, Unity). [OUTDATED]
+- [RimWorld RPC](https://github.com/NovoDwarf/RimWorldRPC) - (Fork) RPC for RimWorld (С#, Unity).
 - [Gothic RPC](https://github.com/NovoDwarf/GothicRPC) - (Fork) RPC for Gothic (C++, Union)
 
 ### Utilites
