@@ -29,3 +29,5 @@ My name is Kirill, and I am a student at [SRSPU (NPI)](https://npi-tu.ru), major
 - [OpenDota.NET](https://github.com/NovoDwarf/OpenDota.NET) - (Fork) OpenDota API wrapper (C#)
 - [VK to Discord](https://github.com/NovoDwarf/VKtoDiscord) - (Fork) Display songs from VK in Discord (Python)
 - [Spotify to VK](https://github.com/NovoDwarf/SpotifyToVK) - (Fork) Display songs from Spotify in VK (Python)
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=NovoDwarf&theme=midnight_sakura&hide_title=true&custom_title=STATS)
