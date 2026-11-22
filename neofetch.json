@@ -16,26 +16,38 @@
           "value": "Kirill"
         },
         {
+          "key": "Alias",
+          "value": "NovoDwarf"
+        },
+        {
           "key": "Role",
-          "value": ".NET Developer"
+          "value": "C# / .NET Developer"
         },
         {
           "key": "Education",
           "value": "SRSPU (NPI)"
         },
         {
-          "key": "Focus",
-          "value": "C# / .NET"
+          "key": "Major",
+          "value": "Information Systems"
+        },
+        {
+          "key": "Uptime",
+          "value": "{{uptime}}"
         }
       ]
     },
     {
-      "title": "- Environment",
+      "title": "- Development",
       "titleColor": {
         "text": "#9B3E75, #F2A6D0",
         "line": "#D7A1C2, #8B557D"
       },
       "fields": [
+        {
+          "key": "Primary",
+          "value": "C# / .NET"
+        },
         {
           "key": "Languages",
           "value": "C#, C++, Rust, Go, Zig"
@@ -45,18 +57,113 @@
           "value": ".NET, MAUI, Blazor, Avalonia"
         },
         {
-          "key": "Tools",
-          "value": "Rider, Visual Studio, Git"
+          "key": "Ecosystem",
+          "value": "Aspire, Unity, Autofac"
+        },
+        {
+          "key": "Databases",
+          "value": "PostgreSQL, RavenDB"
+        },
+        {
+          "key": "IDE",
+          "value": "Rider, Visual Studio"
+        },
+        {
+          "key": "VCS",
+          "value": "Git, GitHub"
+        }
+      ]
+    },
+    {
+      "title": "- Engineering",
+      "titleColor": {
+        "text": "#9B3E75, #F2A6D0",
+        "line": "#D7A1C2, #8B557D"
+      },
+      "fields": [
+        {
+          "key": "Architecture",
+          "value": "Modularity, Abstractions"
+        },
+        {
+          "key": "Patterns",
+          "value": "DI, Pub/Sub, ECS"
+        },
+        {
+          "key": "Performance",
+          "value": "Benchmarking, Optimization"
+        },
+        {
+          "key": "Low-level",
+          "value": "VM, CPU, Memory"
+        },
+        {
+          "key": "Simulation",
+          "value": "Discrete-event, Time-stepped"
         },
         {
           "key": "Interests",
-          "value": "Architecture, VM, Simulation"
+          "value": "Frameworks, Libraries, Systems"
+        }
+      ]
+    },
+    {
+      "title": "- Infrastructure",
+      "titleColor": {
+        "text": "#9B3E75, #F2A6D0",
+        "line": "#D7A1C2, #8B557D"
+      },
+      "fields": [
+        {
+          "key": "Virtualization",
+          "value": "Proxmox VE, LXC"
+        },
+        {
+          "key": "Containers",
+          "value": "Docker"
+        },
+        {
+          "key": "Networking",
+          "value": "OPNsense, VLAN, DNS"
+        },
+        {
+          "key": "Identity",
+          "value": "ZITADEL"
+        },
+        {
+          "key": "Monitoring",
+          "value": "Grafana, Prometheus"
+        }
+      ]
+    },
+    {
+      "title": "- Projects",
+      "titleColor": {
+        "text": "#9B3E75, #F2A6D0",
+        "line": "#D7A1C2, #8B557D"
+      },
+      "fields": [
+        {
+          "key": "Mathematics",
+          "value": "MathForge"
+        },
+        {
+          "key": "Frameworks",
+          "value": "Grekov, Messager.NET"
+        },
+        {
+          "key": "Systems",
+          "value": "LoliVM"
+        },
+        {
+          "key": "Simulation",
+          "value": "Komissar, ImiModel.NET"
         }
       ]
     }
   ],
   "stats": {
-    "title": "- GitHub",
+    "title": "- GitHub Statistics",
     "titleColor": {
       "text": "#9B3E75, #F2A6D0",
       "line": "#D7A1C2, #8B557D"
@@ -78,10 +185,31 @@
           "value": "{{commits}}"
         },
         "right": {
+          "key": "Forks",
+          "value": "{{forks}}"
+        }
+      },
+      {
+        "left": {
           "key": "Followers",
           "value": "{{followers}}"
+        },
+        "right": {
+          "key": "Following",
+          "value": "{{following}}"
         }
-      }
+      },
+      {
+        "left": {
+          "key": "Issues",
+          "value": "{{issues}}"
+        },
+        "right": {
+          "key": "PRs",
+          "value": "{{prs}}"
+        }
+      },
+      "loc"
     ]
   }
 }
