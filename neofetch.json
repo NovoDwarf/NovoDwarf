@@ -1,0 +1,87 @@
+{
+  "backgroundColor": "#FFF8FC, #151019",
+  "separatorColor": "#D8C4D1, #59445C",
+  "imageColor": "#A64B83, #E6A0C4",
+  "imageScale": 1,
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "titleColor": {
+        "text": "#9B3E75, #F2A6D0",
+        "line": "#D7A1C2, #8B557D"
+      },
+      "fields": [
+        {
+          "key": "Name",
+          "value": "Kirill"
+        },
+        {
+          "key": "Role",
+          "value": ".NET Developer"
+        },
+        {
+          "key": "Education",
+          "value": "SRSPU (NPI)"
+        },
+        {
+          "key": "Focus",
+          "value": "C# / .NET"
+        }
+      ]
+    },
+    {
+      "title": "- Environment",
+      "titleColor": {
+        "text": "#9B3E75, #F2A6D0",
+        "line": "#D7A1C2, #8B557D"
+      },
+      "fields": [
+        {
+          "key": "Languages",
+          "value": "C#, C++, Rust, Go, Zig"
+        },
+        {
+          "key": "Frameworks",
+          "value": ".NET, MAUI, Blazor, Avalonia"
+        },
+        {
+          "key": "Tools",
+          "value": "Rider, Visual Studio, Git"
+        },
+        {
+          "key": "Interests",
+          "value": "Architecture, VM, Simulation"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub",
+    "titleColor": {
+      "text": "#9B3E75, #F2A6D0",
+      "line": "#D7A1C2, #8B557D"
+    },
+    "rows": [
+      {
+        "left": {
+          "key": "Repos",
+          "value": "{{repos}}"
+        },
+        "right": {
+          "key": "Stars",
+          "value": "{{stars}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Commits",
+          "value": "{{commits}}"
+        },
+        "right": {
+          "key": "Followers",
+          "value": "{{followers}}"
+        }
+      }
+    ]
+  }
+}
