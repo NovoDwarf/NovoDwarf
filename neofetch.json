@@ -106,7 +106,7 @@
           "value": "Frameworks, Libraries, Systems"
         }
       ]
-    },
+    },  
     {
       "title": "- Infrastructure",
       "titleColor": {
@@ -115,20 +115,12 @@
       },
       "fields": [
         {
-          "key": "Virtualization",
-          "value": "Proxmox VE, LXC"
-        },
-        {
-          "key": "Containers",
-          "value": "Docker"
+          "key": "Homelab",
+          "value": "Proxmox VE, LXC, Docker"
         },
         {
           "key": "Networking",
-          "value": "OPNsense, VLAN, DNS"
-        },
-        {
-          "key": "Identity",
-          "value": "ZITADEL"
+          "value": "OPNsense, VLAN, DNS, ZITADEL"
         },
         {
           "key": "Monitoring",
@@ -136,31 +128,6 @@
         }
       ]
     },
-    {
-      "title": "- Projects",
-      "titleColor": {
-        "text": "#9B3E75, #F2A6D0",
-        "line": "#D7A1C2, #8B557D"
-      },
-      "fields": [
-        {
-          "key": "Mathematics",
-          "value": "MathForge"
-        },
-        {
-          "key": "Frameworks",
-          "value": "Grekov, Messager.NET"
-        },
-        {
-          "key": "Systems",
-          "value": "LoliVM"
-        },
-        {
-          "key": "Simulation",
-          "value": "Komissar, ImiModel.NET"
-        }
-      ]
-    }
   ],
   "stats": {
     "title": "- GitHub Statistics",
