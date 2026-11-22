@@ -1,33 +1,112 @@
-# Bio
+<div align="center">
 
-My name is Kirill, and I am a student at [SRSPU (NPI)](https://npi-tu.ru), majoring in [Information Systems and Technologies](https://npi-tu.ru/university/faculty/fitu/). I am focused on .NET development with a strong interest in C#. I have experience developing various applications and continuously improve my technical skills.
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://neofetch-profile.vercel.app/api?username=NovoDwarf&amp;theme=github-dark&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2FNovoDwarf%2FNovoDwarf%2Fmaster%2Fneofetch.json"
+  />
+  <img
+    alt="NovoDwarf Neofetch Profile"
+    src="https://neofetch-profile.vercel.app/api?username=NovoDwarf&amp;theme=github-light&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2FNovoDwarf%2FNovoDwarf%2Fmaster%2Fneofetch.json"
+  />
+</picture>
 
-## Projects
+</div>
 
-### Magnum Opus
 
-- [MathForge](https://github.com/NovoDwarf/MathForge) - A modular .NET mathematical library providing tools for numerical computing, probability, cryptography, graphics, optimization, machine learning, and other computational domains. Includes MathForge.Maui, a showcase application for exploring the library's modules. (C#, .NET, MAUI)
-- [Grekov](https://github.com/NovoDwarf/Grekov) - A centralized package, content, localization, and definition management framework for .NET applications. Handles package discovery, manifest processing, dependency resolution, assembly loading, definition parsing, and localization. (C#, .NET)
-- [Messager.NET](https://github.com/NovoDwarf/Messager.NET) - A lightweight and fast messaging system (pub/sub) for .NET (C#, Autofac) (Inspired by [MessagePipe](https://github.com/Cysharp/MessagePipe))
-- [LoliVM](https://github.com/NovoDwarf/LoliVM) - A 8-bit machine project. The project is an opportunity to try different programming languages, including Rust, Go, and Zig. The .NET implementation serves as the reference because it is the language platform I know best.
+<h3>Featured Projects</h3>
 
-### Projects
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="23%" align="left">Project</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/NovoDwarf/MathForge"><b>MathForge</b></a></td>
+      <td>Modular .NET mathematical library for numerical computing, probability, cryptography, graphics, optimization, and machine learning. Includes a MAUI showcase application for exploring its functionality.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NovoDwarf/Grekov"><b>Grekov</b></a></td>
+      <td>Extensible content management framework for .NET applications, featuring package discovery, dependency resolution, assembly loading, definition parsing, and localization support.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NovoDwarf/Messager.NET"><b>Messager.NET</b></a></td>
+      <td>Lightweight publish/subscribe messaging library for .NET, designed around modularity and efficient message dispatching, with synchronous and asynchronous messaging and strong or weak subscriptions.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NovoDwarf/LoliVM"><b>LoliVM</b></a></td>
+      <td>Experimental 8-bit virtual machine exploring CPU architecture, instruction execution, registers, memory management, and low-level programming concepts. Uses C# as the reference implementation, with Rust, Go, and Zig as additional language targets.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NovoDwarf/Komissar"><b>Komissar</b></a></td>
+      <td>Modular .NET simulation execution engine for coordinating independent systems and tasks through a configurable, dependency-aware execution pipeline.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NovoDwarf/ImiModel.NET"><b>ImiModel.NET</b></a></td>
+      <td>Simulation modeling framework supporting both time-stepped and discrete-event approaches, with interconnected sources, queues, services, and sinks for building complex simulation models.</td>
+    </tr>
+  </tbody>
+</table>
 
-- [NovoDwarf.Projects](https://github.com/NovoDwarf/NovoDwarf.Projects) - Compilation of various algorithms that I was interested in implementing or had implemented as laboratory work (C#, ...)
-- [Komissar](https://github.com/NovoDwarf/Komissar) - A lightweight .NET simulation engine designed for integrating and executing independent systems, tasks, and simulation logic. Provides a modular, dependency-aware execution pipeline for simulations and complex applications. (C#, .NET)
-- [ImiModel.NET](https://github.com/NovoDwarf/ImiModel.NET) - A modular .NET simulation modeling framework supporting time-stepped (Δt) and event-driven simulation methods. Allows building models from interconnected sources, queues, services, and sinks. (C#, .NET, MathForge)
-- ~~[BF](https://github.com/NovoDwarf/BF) - A Discord server infrastructure: Backend, Bots (Discord, Telegram), Site (Dashboard, Information, ...) (.NET Aspire, C#, Blazor, Discord.Net, Lavalink4NET, OpenDota.NET, RavenDB)~~
-- ~~[RimSharp](https://github.com/NovoDwarf/RimSharp) - Alternative (RimPy, RimSort) mod manager for RimWorld. Currently, W.I.P. (C#, MAUI)~~
-- ~~[Procedural.NET](https://github.com/NovoDwarf/Procedural.NET) - A modular .NET framework for procedural generation and node-based computational workflows. Currently focused on procedural terrain generation, with plans to evolve into a general-purpose procedural toolkit. Includes an Avalonia-based graph editor. (C#, .NET, Avalonia, MathForge, Grekov)~~
+<details>
+<summary><b>More Projects</b></summary>
 
-### Discord Rich Presence
-- [RimWorld RPC](https://github.com/NovoDwarf/RimWorldRPC) - (Fork) RPC for RimWorld (С#, Unity).
-- [Gothic RPC](https://github.com/NovoDwarf/GothicRPC) - (Fork) RPC for Gothic (C++, Union)
+<br>
 
-### Utilites
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="23%" align="left">Project</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/NovoDwarf/NovoDwarf.Projects"><b>NovoDwarf.Projects</b></a></td>
+      <td>Collection of algorithm implementations, programming experiments, and academic laboratory assignments covering various computer science topics.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NovoDwarf/RimWorldRPC"><b>RimWorld RPC</b></a></td>
+      <td>Fork of a Discord Rich Presence integration for RimWorld, displaying game activity and status through Discord.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NovoDwarf/GothicRPC"><b>Gothic RPC</b></a></td>
+      <td>Fork of a Discord Rich Presence integration for Gothic, developed using C++ and the Union modding framework.</td>
+    </tr>
+  </tbody>
+</table>
 
-- [OpenDota.NET](https://github.com/NovoDwarf/OpenDota.NET) - (Fork) OpenDota API wrapper (C#)
-- [VK to Discord](https://github.com/NovoDwarf/VKtoDiscord) - (Fork) Display songs from VK in Discord (Python)
-- [Spotify to VK](https://github.com/NovoDwarf/SpotifyToVK) - (Fork) Display songs from Spotify in VK (Python)
+</details>
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=NovoDwarf&theme=midnight_sakura&hide_title=true&custom_title=STATS)
+<details>
+<summary><b>On Hold</b></summary>
+
+<br>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="23%" align="left">Project</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/NovoDwarf/BF"><b>BF</b></a></td>
+      <td>Discord community infrastructure combining backend services, Discord and Telegram bots, and a web dashboard. Built around .NET Aspire, Blazor, Discord.Net, Lavalink4NET, and RavenDB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NovoDwarf/RimSharp"><b>RimSharp</b></a></td>
+      <td>Alternative mod manager for RimWorld, developed with C# and .NET MAUI as an alternative to tools such as RimPy and RimSort.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NovoDwarf/Procedural.NET"><b>Procedural.NET</b></a></td>
+      <td>Modular procedural generation framework with node-based computational workflows, initially focused on terrain generation. Includes an Avalonia-based visual graph editor and integrations with MathForge and Grekov.</td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
