@@ -45,10 +45,6 @@
       },
       "fields": [
         {
-          "key": "Primary",
-          "value": "C# / .NET"
-        },
-        {
           "key": "Languages",
           "value": "C#, C++, Rust, Go, Zig"
         },
@@ -67,10 +63,6 @@
         {
           "key": "IDE",
           "value": "Rider, Visual Studio"
-        },
-        {
-          "key": "VCS",
-          "value": "Git, GitHub"
         }
       ]
     },
@@ -81,10 +73,6 @@
         "line": "#D7A1C2, #8B557D"
       },
       "fields": [
-        {
-          "key": "Architecture",
-          "value": "Modularity, Abstractions"
-        },
         {
           "key": "Patterns",
           "value": "DI, Pub/Sub, ECS"
@@ -106,7 +94,7 @@
           "value": "Frameworks, Libraries, Systems"
         }
       ]
-    },  
+    },
     {
       "title": "- Infrastructure",
       "titleColor": {
@@ -127,7 +115,7 @@
           "value": "Grafana, Prometheus"
         }
       ]
-    },
+    }
   ],
   "stats": {
     "title": "- GitHub Statistics",

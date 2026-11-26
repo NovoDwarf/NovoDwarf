@@ -25,28 +25,24 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/NovoDwarf/MathForge"><b>MathForge</b></a></td>
-      <td>Modular .NET mathematical library for numerical computing, probability, cryptography, graphics, optimization, and machine learning. Includes a MAUI showcase application for exploring its functionality.</td>
+      <td><a href="https://github.com/NovoDwarf/Messager.NET"><b>Messager.NET</b></a></td>
+      <td>A .NET messaging library with typed pub/sub, synchronous and asynchronous handlers, and an in-memory background queue.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/NovoDwarf/Grekov"><b>Grekov</b></a></td>
-      <td>Extensible content management framework for .NET applications, featuring package discovery, dependency resolution, assembly loading, definition parsing, and localization support.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/NovoDwarf/Messager.NET"><b>Messager.NET</b></a></td>
-      <td>Lightweight publish/subscribe messaging library for .NET, designed around modularity and efficient message dispatching, with synchronous and asynchronous messaging and strong or weak subscriptions.</td>
+      <td>A .NET library for loading content packages, definitions, and C# assemblies, with dependency resolution and support for modding.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/NovoDwarf/LoliVM"><b>LoliVM</b></a></td>
-      <td>Experimental 8-bit virtual machine exploring CPU architecture, instruction execution, registers, memory management, and low-level programming concepts. Uses C# as the reference implementation, with Rust, Go, and Zig as additional language targets.</td>
+      <td>An experimental 8-bit virtual machine for exploring computer architecture and low-level programming, with a C# reference implementation and plans for other languages.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/NovoDwarf/Komissar"><b>Komissar</b></a></td>
-      <td>Modular .NET simulation execution engine for coordinating independent systems and tasks through a configurable, dependency-aware execution pipeline.</td>
+      <td><a href="https://github.com/NovoDwarf/OpenDota.NET"><b>OpenDota.NET</b></a></td>
+      <td>A .NET wrapper for the OpenDota API, with access to Dota 2 match and player data.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/NovoDwarf/ImiModel.NET"><b>ImiModel.NET</b></a></td>
-      <td>Simulation modeling framework supporting both time-stepped and discrete-event approaches, with interconnected sources, queues, services, and sinks for building complex simulation models.</td>
+      <td><a href="https://github.com/NovoDwarf/MathForge"><b>MathForge</b></a></td>
+      <td>A modular .NET mathematics library covering numerical computing, probability, graphics, cryptography, optimization, and more.</td>
     </tr>
   </tbody>
 </table>
@@ -64,6 +60,14 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/NovoDwarf/Komissar"><b>Komissar</b></a></td>
+      <td>A modular .NET simulation engine with a configurable, dependency-aware execution pipeline.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NovoDwarf/ImiModel.NET"><b>ImiModel.NET</b></a></td>
+      <td>A simulation modeling framework for time-stepped and discrete-event models.</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/NovoDwarf/NovoDwarf.Projects"><b>NovoDwarf.Projects</b></a></td>
       <td>Collection of algorithm implementations, programming experiments, and academic laboratory assignments covering various computer science topics.</td>
